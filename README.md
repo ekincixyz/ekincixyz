@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @motherlode-eth
+- 👋 hey, I'm emre
 - 👀 I’m interested in blockchain tech to decentralize financial & governmental systems build by white cis-men that mostly benefit white cis-men.
-- 🌱 I’m currently learning about Ethereum, DAOs & DeFi.
+- 🌱 I have been working in web3 since 2019, graduated my business bachelors in 2021 and started working a week after my graduation at a Decentralized Financial Tech company. 
+
 
 <!---
 motherlode-eth/motherlode-eth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
